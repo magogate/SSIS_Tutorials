@@ -54,13 +54,13 @@ A. **Options**<br>
   - Double click on link --> Constraint Editor Window --> At bottom on of Window - select Logical OR or AND
 5. Containers
 
-To execute -- F5, Start or Right click on Package select Execute Package
-To Stop  - Shift + F5, Stop or Click on URL
+To execute -- F5, Start or Right click on Package select Execute Package<br>
+To Stop  - Shift + F5, Stop or Click on URL<br>
 
-![image](https://user-images.githubusercontent.com/45523211/175368856-53b6175f-2e6b-49c1-8f3e-7f193ab649a4.png)
+![image](https://user-images.githubusercontent.com/45523211/175368856-53b6175f-2e6b-49c1-8f3e-7f193ab649a4.png)<br>
 
-SSIS Toolbox (right hand corner icon)
+SSIS Toolbox (right hand corner icon) <br>
 ![image](https://user-images.githubusercontent.com/45523211/175369014-012fe2ac-9ed7-455c-a603-92c6779aeba0.png)
 
-Logical OR
+Logical OR <br>
 ![image](https://user-images.githubusercontent.com/45523211/175373508-7226a2ab-936e-49bc-b652-63158b735a83.png)
