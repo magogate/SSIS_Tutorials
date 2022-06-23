@@ -41,3 +41,13 @@ A. **Options**<br>
     2. If you right click on "Connection Manager" from Solution Explorer - that way you create it at project level. This has ext as .conmgr and in bracket it says (project)
     3. or, you can change project conn to package conn or vice versa, by right clicking on connection itself at "Connection Manager Box"
 3.  Naming Conventions - ProviderType_DatabaseType_databaseName e.g. OLEDB_SQL_PWInsurance 
+
+
+
+## Module 02C - Introduction to the Development Environment and the Control Flow
+1. Control flow is like Worklet or Mapplet
+2. Tasks - inside control flow
+3. Precedence Constraint - Sucess, Failure, Completion (And/Or)
+4. Containers
+
+![image](https://user-images.githubusercontent.com/45523211/175368856-53b6175f-2e6b-49c1-8f3e-7f193ab649a4.png)
