@@ -11,7 +11,7 @@
 ## Module 01 - SSIS Overview
   Explanation of ETL and Cube etc
   
-## Module 02A - Introduction to the Development Environment and the Control Flow<br>
+## Module 02A - Introduction to the Development Environment and the Control Flow
 A. Solution File<br>
     1. SSIS Project<br>
       - SSIS Package1 **(dtsx)**<br>
@@ -35,3 +35,9 @@ A. **Options**<br>
    
 
 
+## Module 02B - Introduction to the Development Environment and the Control Flow
+1.  Reusable - Create connection manager at project level instead of package level
+    1. Right Click on Connection Manager Box - by default its a package level
+    2. If you right click on "Connection Manager" from Solution Explorer - that way you create it at project level. This has ext as .conmgr and in bracket it says (project)
+    3. or, you can change project conn to package conn or vice versa, by right clicking on connection itself at "Connection Manager Box"
+3.  Naming Conventions - ProviderType_DatabaseType_databaseName e.g. OLEDB_SQL_PWInsurance 
