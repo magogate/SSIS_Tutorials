@@ -13,15 +13,15 @@
   
 ## Module 02A - Introduction to the Development Environment and the Control Flow<br>
 A. Solution File<br>
-    1. SSIS Project
-      - SSIS Package1 **(dtsx)**
-      - SSIS Package2
-      - SSIS Package3
-    2. SSAS Project
-      -- SSAS Tabular Cube    
-    3. SSRS Project
-      -- SSAS Reports
-    4. SSIS Project 2
+    1. SSIS Project<br>
+      - SSIS Package1 **(dtsx)**<br>
+      - SSIS Package2<br>
+      - SSIS Package3<br>
+    2. SSAS Project<br>
+      -- SSAS Tabular Cube    <br>
+    3. SSRS Project<br>
+      -- SSAS Reports<br>
+    4. SSIS Project 2<br>
 
 - However, keep 1 sol - 1 proj - 1 tech
 - To get the control windows -- Go to View Menu
