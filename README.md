@@ -48,7 +48,12 @@ A. **Options**<br>
 1. Control flow is like Worklet or Mapplet
 2. Tasks - inside control flow
 3. Precedence Constraint - Sucess, Failure, Completion (And/Or)
-4. Containers
+  - Right click on link and select Success \ Failure \ Completion based on need
+  - To get tool tip for sucecss -- Tool =--> Options --> Business Intelligence Designer ---> Integration Services Designer --> Show precedence constraint labels
+5. Containers
+
+To execute -- F5, Start or Right click on Package select Execute Package
+To Stop  - Shift + F5, Stop or Click on URL
 
 ![image](https://user-images.githubusercontent.com/45523211/175368856-53b6175f-2e6b-49c1-8f3e-7f193ab649a4.png)
 
