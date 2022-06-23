@@ -11,8 +11,8 @@
 ## Module 01 - SSIS Overview
   Explanation of ETL and Cube etc
   
-## Module 02A - Introduction to the Development Environment and the Control Flow
-A.<br> Solution File
+## Module 02A - Introduction to the Development Environment and the Control Flow<br>
+A. Solution File<br>
     1. SSIS Project
       - SSIS Package1 **(dtsx)**
       - SSIS Package2
@@ -25,8 +25,8 @@ A.<br> Solution File
 
 - However, keep 1 sol - 1 proj - 1 tech
 - To get the control windows -- Go to View Menu
-- Go to Tools --? Options --> Project & Solutions --> Always show solutions (There are many things here)
-A. <br>**Options**
+- Go to Tools --? Options --> Project & Solutions --> Always show solutions (There are many things here)<br>
+A. **Options**<br>
   1. Control Flow
   2. Data FLow
   3. Parameters
