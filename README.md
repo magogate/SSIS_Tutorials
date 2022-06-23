@@ -51,3 +51,6 @@ A. **Options**<br>
 4. Containers
 
 ![image](https://user-images.githubusercontent.com/45523211/175368856-53b6175f-2e6b-49c1-8f3e-7f193ab649a4.png)
+
+SSIS Toolbox (right hand corner icon)
+![image](https://user-images.githubusercontent.com/45523211/175369014-012fe2ac-9ed7-455c-a603-92c6779aeba0.png)
