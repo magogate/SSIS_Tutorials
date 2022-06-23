@@ -64,3 +64,5 @@ SSIS Toolbox (right hand corner icon) <br>
 
 Logical OR <br>
 ![image](https://user-images.githubusercontent.com/45523211/175373508-7226a2ab-936e-49bc-b652-63158b735a83.png)
+
+![image](https://user-images.githubusercontent.com/45523211/175375802-526c1838-216b-4014-a241-1d2f9cbd105c.png)
